@@ -1,0 +1,13 @@
+1. Стэк
+  * Vue 2
+  * Tailwind css
+  * Vue Router
+  * Electron Js
+  * Scss
+
+2. Анимации
+  Самые обычные анимации при hover.
+  
+  * При hover на иконок меню, меняется border-radius от full на 16px. 
+  * Color иконки тоже меняется.
+  * Menu-Dropdown сделан через v-show (vue).
